@@ -1,0 +1,3 @@
+[submodule "opsworks_ruby"]
+	path = opsworks_ruby
+	url = https://github.com/ajgon/opsworks_ruby
