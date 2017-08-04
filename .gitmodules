@@ -1,3 +1,6 @@
 [submodule "opsworks_ruby"]
 	path = opsworks_ruby
 	url = https://github.com/ajgon/opsworks_ruby
+[submodule "opsworks-cookbooks"]
+	path = opsworks-cookbooks
+	url = https://github.com/aws/opsworks-cookbooks
